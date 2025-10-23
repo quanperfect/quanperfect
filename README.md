@@ -37,7 +37,7 @@ Full-stack Software Engineer who loves diving deep into projects and polishing e
 ### Personal tutoring platform
 I really enjoy my part-time work as a programming tutor, so I decided to make life easier for myself and my students (and parents) - a platform for lesson scheduling, homework tracking, payment management, teaching materials. Future plans include live whiteboard and proper code sharing collaboration, plus automated code testing, exploring WebRTC for calls. Currently in beta testing.
 
-**Why it's private:** The code handles real student data (even with just a small amount of users), so I'm keeping it private until the production release, I feel like it's a wise approach.
+**Why it's private:** The code handles real student data (even with just a small amount of users), so I'm keeping it private until the full production release (currently only in beta), I feel like it's a wise approach.
 
 **Details:**
 - Custom rolled OAuth2 authentication following OWASP guidelines
