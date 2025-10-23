@@ -43,8 +43,8 @@ I really enjoy my part-time work as a programming tutor, so I decided to make li
 - Custom rolled OAuth2 authentication following OWASP guidelines
 - Monolith architecture with FastAPI + a few attached microservices  
 - Detailed API error handling that helps the frontend show very useful error messages + strict Pydantic validation
-- Self-deployed MinIO (S3-compatible) for homework and lesson file uploads
-- AWS SES for emails, Telegram notifications using Aiogram
+- Self-deployed MinIO (AWS S3-compatible storage) for homework and lesson file uploads
+- AWS SES for emails, Telegram bot microservice for notifications using Aiogram
 
 ### Other projects worth mentioning
 - **FACEIT CS2 Analytics** - stats website for me and friends to track our Counter-Strike games results. Way easier than navigating Faceit's site when looking at stats of multiple players. Currently rewriting for their new API and fixing some rushed architecture decisions.
